@@ -3,6 +3,7 @@ A lightweight chatbot for iOS 26 using Shortcuts and the Apple Intelligence on d
 
 ## What it can do
 Chat... duh
+
 It can also store history
 
 ## Known issues
